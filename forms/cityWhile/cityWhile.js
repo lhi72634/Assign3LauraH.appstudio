@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Laura Higueras Assignment 3
+=======
+//Laura Higueras
+>>>>>>> changes2
 
 let cities = []
 let moreInfo = "yes"
