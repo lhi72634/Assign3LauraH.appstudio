@@ -1,5 +1,5 @@
-//Laura Higueras
-/*
+//Laura Higueras Assignment 3.
+
 let cities = []
 let moreInfo = "yes"
 let i = 0
