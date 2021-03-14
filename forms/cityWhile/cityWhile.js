@@ -1,5 +1,4 @@
-//Laura Higueras
-
+/*
 let cities = []
 let moreInfo = "yes"
 let i = 0
